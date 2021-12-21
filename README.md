@@ -10,6 +10,7 @@
 **Task Details:**<br/>
 The task assigned was to display bike data provided as longitude and latitude to visualize them in order have a smoother way of seeing these points. <br/>
 
+<br/>
 **Solution Approach:**<br/>
 1- The Backend is **Laravel** and front end is **Vue**<br/>
 2- In order to get data from Laravel backend , I used **Api** methods provided by laravel.<br/>
