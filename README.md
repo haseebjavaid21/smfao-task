@@ -7,10 +7,12 @@
 4- You can copy the URL shown in terminal and hit in the browser or just use this URL : http://127.0.0.1:8000<br/>
 
 <br/>
+
 **Task Details:**<br/>
 The task assigned was to display bike data provided as longitude and latitude to visualize them in order have a smoother way of seeing these points. <br/>
 
 <br/>
+
 **Solution Approach:**<br/>
 1- The Backend is **Laravel** and front end is **Vue**<br/>
 2- In order to get data from Laravel backend , I used **Api** methods provided by laravel.<br/>
